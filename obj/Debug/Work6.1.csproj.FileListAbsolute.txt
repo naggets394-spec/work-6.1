@@ -1,0 +1,11 @@
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\bin\Debug\Work6.1.exe.config
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\bin\Debug\Work6.1.exe
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\bin\Debug\Work6.1.pdb
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.csproj.AssemblyReference.cache
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6._1.Form1.resources
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6._1.Properties.Resources.resources
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.csproj.GenerateResource.cache
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.csproj.CoreCompileInputs.cache
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.exe
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.pdb
+D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.exe.config
