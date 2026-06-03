@@ -9,3 +9,13 @@ D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.csproj.CoreCompileI
 D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.exe
 D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.pdb
 D:\Users\1213-6\Documents\2-ИСП\Work6.1\obj\Debug\Work6.1.exe.config
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\bin\Debug\Work6.1.exe.config
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\bin\Debug\Work6.1.exe
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\bin\Debug\Work6.1.pdb
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6.1.csproj.AssemblyReference.cache
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6._1.Form1.resources
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6._1.Properties.Resources.resources
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6.1.csproj.GenerateResource.cache
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6.1.csproj.CoreCompileInputs.cache
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6.1.exe
+C:\Users\1210-13\Documents\2-ИСП\работа 6.1полевая\obj\Debug\Work6.1.pdb

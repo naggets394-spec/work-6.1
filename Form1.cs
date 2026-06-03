@@ -15,6 +15,11 @@ namespace Work6._1
         public Form1()
         {
             InitializeComponent();
+            textBox1.Text = "Материнская плата дома! Но по дороге в комнату вы уронили ее на пол. Потрясти, чтобы смахнуть пыль?";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
         }
     }
 }
